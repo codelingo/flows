@@ -1,2 +1,3 @@
-# flows
-Flow configurations that can be deployed on the CodeLingo Platform
+# Flows
+
+Flow configurations that can be deployed on the CodeLingo Platform.
